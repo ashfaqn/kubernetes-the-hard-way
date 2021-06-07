@@ -45,3 +45,4 @@ This tutorial assumes you have access to the [Google Cloud Platform](https://clo
 * [Cleaning Up](docs/14-cleanup.md)
 
 Testing purposes
+testing purposes 2
